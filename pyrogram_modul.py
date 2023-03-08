@@ -42,7 +42,7 @@ async def hg(bot: Client, msg: Message):
 
         elif str(new_user.id) =="5809546648":
 
-            await msg.reply('🤖 [Riyad 𝗧𝗮𝗴𝗴𝗲𝗿](https://t.me/)-un Sahibi, Qrupa Qatıldı.\n Xoş Gəldin  Aramıza Sahib, Necəsən?🥰.')
+            await msg.reply('🤖 [Riyad 𝗧𝗮𝗴𝗴𝗲𝗿](https://t.me/Momento_More0088)-un Sahibi, Qrupa Qatıldı.\n Xoş Gəldin  Aramıza Sahib, Necəsən?🥰.')
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
